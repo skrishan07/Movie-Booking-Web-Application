@@ -1,7 +1,7 @@
 
 
 **Movie Booking Web Application**
-[![Movie Booking Website](/sample/movie_booking.gif)]()
+<!-- [![Movie Booking Website](/sample/movie_booking.gif)]() -->
 
 # Movie-Booking-WebApp
 I built this web application in my sophomore year under Winter Project competition organized by AASF (programming club of the institute). At the end of the competition I secured rank 1 out of the 50+ participants.
@@ -35,15 +35,15 @@ Their are two access-views of the website :
 
 ## Prototype
 **Main Landing Page**
-[![Movie Booking Website](/sample/images/main_page.png)]()
+<!-- [![Movie Booking Website](/sample/images/main_page.png)]() -->
 **Seat Booking Page**
-[![Movie Booking Website](/sample/images/booking_page.png)]()
+<!-- [![Movie Booking Website](/sample/images/booking_page.png)]() -->
 **Manage Movies Here**
-[![Movie Booking Website](/sample/images/movies_page.png)]()
+<!-- [![Movie Booking Website](/sample/images/movies_page.png)]() -->
 **Allot Auditorium**
-[![Movie Booking Website](/sample/images/admin_page.png)]()
+<!-- [![Movie Booking Website](/sample/images/admin_page.png)]() -->
 **View History and Generate Invoice**
-[![Movie Booking Website](/sample/images/invoice.png)]()
+<!-- [![Movie Booking Website](/sample/images/invoice.png)]() -->
 
 
 
